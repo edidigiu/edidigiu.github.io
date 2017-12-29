@@ -17,7 +17,7 @@
 .header
 {
     position: absolute;
-    width: 250px;
+    width: 650px;
     background-color: #cc6600;
 }
 
@@ -33,7 +33,7 @@
 .headerNav
 {
     position: absolute;
-    width: 250px;
+    width: 650px;
     height: 20px;
     padding-top: 3px;
     padding-left: 20px;
